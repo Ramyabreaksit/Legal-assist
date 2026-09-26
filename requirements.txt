@@ -1,0 +1,9 @@
+streamlit==1.38.0
+google-generativeai
+langchain
+langchain-text-splitters
+langchain-google-genai
+langchain-chroma
+chromadb
+pypdf
+python-dotenv
